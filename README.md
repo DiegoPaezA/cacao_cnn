@@ -13,3 +13,10 @@ Es importante tener en cuenta que las mazorcas del cacao demuestran su madurez c
 [Cocoa Ripeness Dataset](https://www.kaggle.com/andrewmvd/cocoa-ripeness-dataset)
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/JnPPPp5/descargar.png" alt="descargar" border="0"></a>
+
+| Notebook                             |Clasificación de madurez de cacao con CNN secuencial               |
+|---                                   |---                                                                |
+| [cacao_cnn_seq](https://is.gd/MMIVoM)            | dataset **Cocoa_Dataset** |
+| [cacao_cnn_seq_coco](https://is.gd/kshVd6)       | output sigmoid - dataset prefeched TF **Cocoa_coco** |
+| [cacao_cnn_seq_coco_2x](https://is.gd/mnStTX)    | output softmax - Confusion Matrix - dataset prefeched TF **Cocoa_coco** |
+| [cacao_cnn_seq_coco_3x](https://is.gd/YFYYpu)    | output softmax - Confusion Matrix - dataset manually load **Cocoa_coco** |
